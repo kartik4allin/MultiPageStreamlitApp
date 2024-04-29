@@ -1,0 +1,9 @@
+#pip install st-pages
+#pip install streamlit-extras
+#pip install streamlit-modal
+langchain
+streamlit
+streamlit-extras
+streamlit-modal
+
+
